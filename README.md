@@ -129,3 +129,14 @@ This project demonstrates the implementation of a complete 2D Unity game using m
 ## 📜 License
 
 This project is for educational and portfolio purposes.
+
+---
+
+## 📜 Demo Images 
+
+<img width="1920" height="1080" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/c57ea72b-4c2e-462c-82f2-2ce053ea76cc" />
+
+---
+<img width="1920" height="1080" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/d4c222ce-198c-4df2-a6e1-f2d4879b2074" />
+
+
